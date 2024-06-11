@@ -1,4 +1,4 @@
-# bank-account
+#Bank-Account-Project
 
 <h2>Why did I make this project?</h2>
 <p> The purpose of this project was to practice declariing, instantiating, and initializing objects based on classes. I relearned about the toStirng method which allowed me to print the values of the object and not the memory location.</p>
